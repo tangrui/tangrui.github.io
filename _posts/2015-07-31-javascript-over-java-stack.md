@@ -11,7 +11,7 @@ layout: post
 published: true
 ---
 
-{% youtube "https://youtu.be/S0imw6Ycc64" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0imw6Ycc64" frameborder="0" allowfullscreen></iframe>
 
 *<small>注：该视频托管在 Youtube 上面，你懂得该怎么做。</small>*
 

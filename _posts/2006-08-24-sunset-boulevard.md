@@ -9,7 +9,7 @@ layout: post
 published: true
 ---
 
-{% youtube "https://youtu.be/ARddozr7u70" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ARddozr7u70" frameborder="0" allowfullscreen></iframe>
 
 Brian left back home
 To sing the world his song, they said he'd never go
