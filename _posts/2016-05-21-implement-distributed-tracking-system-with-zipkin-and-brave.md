@@ -2,7 +2,7 @@
 ID: 708
 title: >
   使用 Zipkin 和 Brave
-  实现分布式系统追踪 (基础篇)
+  实现分布式系统追踪（基础篇）
 author: 唐睿
 date: 2016-05-21 22:25:53 +0800
 categories: [技术]
