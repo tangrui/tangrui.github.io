@@ -7,7 +7,7 @@ date: 2006-07-17 12:28:49 +0800
 categories: [文学]
 tags: [断背山, 同志, LGBT, 网络小说]
 layout: post
-published: true
+published: false
 ---
 
 据后来小林的描述，我当时脸色煞白，满嘴的玉米粒还把玉米棒往嘴里送，其丑态不亚于同时听到有两个女人宣布怀上我的孩子。

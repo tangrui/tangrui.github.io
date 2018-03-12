@@ -7,7 +7,7 @@ date: 2006-07-17 12:34:45 +0800
 categories: [文学]
 tags: [断背山, 同志, LGBT, 网络小说]
 layout: post
-published: true
+published: false
 ---
 
 连续多日疯狂的看球之后，肾上腺素急剧增加，然后加上酒精的刺激，终于有一天爆发了。

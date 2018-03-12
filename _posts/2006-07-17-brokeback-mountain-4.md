@@ -7,7 +7,7 @@ date: 2006-07-17 12:22:29 +0800
 categories: [文学]
 tags: [断背山, 同志, LGBT, 网络小说]
 layout: post
-published: true
+published: false
 ---
 
 五月的南京，天气实在是反常，气温一直不愠不火，前两天还不小心感冒了。

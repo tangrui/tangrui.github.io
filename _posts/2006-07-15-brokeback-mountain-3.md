@@ -7,7 +7,7 @@ date: 2006-07-15 13:03:24 +0800
 categories: [文学]
 tags: [断背山, 同志, LGBT, 网络小说]
 layout: post
-published: true
+published: false
 ---
 
 昨晚回去比较晚，小林还坐在电脑前面打游戏，我就说：小林，我写了你一些关于你的事情，放在 bbs 上了。小林还在打游戏，没理我，郁闷。

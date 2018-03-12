@@ -7,7 +7,7 @@ date: 2006-07-17 12:31:41 +0800
 categories: [文学]
 tags: [断背山, 同志, LGBT, 网络小说]
 layout: post
-published: true
+published: false
 ---
 
 火热的世界杯终于来了，随之而来的还有南京火热的天气。

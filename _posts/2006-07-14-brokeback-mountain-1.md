@@ -7,7 +7,7 @@ date: 2006-07-14 14:16:36 +0800
 categories: [文学]
 tags: [断背山, 同志, LGBT, 网络小说]
 layout: post
-published: true
+published: false
 ---
 
 我想我也不例外。
